@@ -1,0 +1,114 @@
+body{
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(237, 240, 243);
+}
+
+header {
+ background-color: #222;
+  color: rgba(222, 212, 21, 0.862);
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+nav a{
+  color: white;
+  text-decoration: none;
+  margin: 0px 20px;
+  font-size: 20px;
+  color: rgb(242, 79, 9);
+}
+
+#user-display {
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #222;
+  color: white;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.content {
+  text-align: center;
+  padding-top: 140px;
+  padding-bottom: 50px;
+  background: linear-gradient(to right, #b5df0a, #2ebae5);
+  color: white;
+}
+
+.btn {
+  display:inline-block;
+  margin-top: 30px;
+  background-color: white;
+  color: #ec12e9;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: bold;
+}
+.highlights {
+  background: rgb(239, 231, 14);
+  padding: 30px;
+  margin: 60px auto;
+  width: 80%;
+  text-align: center;
+  border-radius: 12px;
+}
+
+.highlights h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+
+.highlights ul {
+  list-style: none;
+}
+
+.highlights ul li {
+  font-size: 18px;
+  padding: 8px 0;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 120px;
+  gap: 20px;
+}
+.product {
+  background: rgb(241, 201, 201);
+  border-radius: 10px;
+  padding: 15px;
+  width: 200px;
+  text-align: center;
+}
+.product img {
+  height: 150px;
+  width: 150px;
+  border-radius: 10px;
+}
+
+button {
+  background-color: #e52e71;
+  border: none;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}

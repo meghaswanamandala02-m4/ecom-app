@@ -1,0 +1,74 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Java Developer",
+      "company": "TCS",
+      "location": "Chennai",
+      "image": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "company": "Infosys",
+      "location": "Bangalore",
+      "image": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Backend Developer",
+      "company": "Wipro",
+      "location": "Hyderabad",
+      "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Full Stack Developer",
+      "company": "HCL",
+      "location": "Noida",
+      "image": "https://images.pexels.com/photos/4344860/pexels-photo-4344860.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Python Developer",
+      "company": "Tech Mahindra",
+      "location": "Pune",
+      "image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "React Developer",
+      "company": "Cognizant",
+      "location": "Coimbatore",
+      "image": "https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg"
+    },
+    {
+      "id": 7,
+      "title": "UI/UX Designer",
+      "company": "Zoho",
+      "location": "Chennai",
+      "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "DevOps Engineer",
+      "company": "Accenture",
+      "location": "Bangalore",
+      "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg"
+    },
+    {
+      "id": 9,
+      "title": "Data Analyst",
+      "company": "Capgemini",
+      "location": "Mumbai",
+      "image": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg"
+    },
+    {
+      "id": 10,
+      "title": "Cloud Engineer",
+      "company": "Amazon",
+      "location": "Hyderabad",
+      "image": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg"
+    }
+  ]
+}
